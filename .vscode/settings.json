@@ -2,6 +2,8 @@
     "files.associations": {
         "iosfwd": "cpp",
         "vector": "cpp",
-        "iterator": "cpp"
+        "iterator": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
     }
 }
